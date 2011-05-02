@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SYSLIB>
+<MSB_FILE name="ztex_spartan6.msb" path="../../soc"/>
+<MemorySections UCflag="false">
+<Section DEPLOY="yes" Name=".text" Value="ebr"/>
+<Section Name=".rodata" Value="ebr"/>
+<Section Name=".data" Value="ebr"/>
+</MemorySections>
+<LinkerSettings>
+<Param Name="UserDefinedLinkerFile" Value=""/>
+</LinkerSettings>
+<STDIO_Redirection>
+<Param InstanceName="" Name="stdin" Text=""/>
+<Param InstanceName="" Name="stdout" Text=""/>
+<Param InstanceName="" Name="stderr" Text=""/>
+</STDIO_Redirection>
+<LibSettings/>
+<PreprocessorSettings>
+<Param Name="SyslibOption" Value="on"/>
+<Param Name="USE_SMALL_LIBC" Value="FALSE"/>
+<Param Name="USE_STANDALONE_SMALL_PRINTF" Value="TRUE"/>
+</PreprocessorSettings>
+</SYSLIB>

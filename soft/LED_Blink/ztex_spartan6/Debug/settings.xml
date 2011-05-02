@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PROJECT path="..">
+<SYSLIB>
+<MSB_FILE path="./../../../soc" name="ztex_spartan6.msb" />
+<LATTICE_MDK_PERIPHERALS rootdir="../../../../soc/../components"/>
+<BUILD_CFG name="Debug"/>
+<USER_PREFS name="user.pref" path=".."/>
+<BUILD>
+<COMPILER flags=" -ffunction-sections -O0 -g2 -w -D_USE_LSCC_PRINTF_"/>
+</BUILD>
+</SYSLIB>
+</PROJECT>

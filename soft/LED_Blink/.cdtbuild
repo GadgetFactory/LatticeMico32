@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?fileVersion 3.1.0?>
+
+<ManagedProjectBuildInfo>
+<project id="LED_Blink.com.lattice.mdk.managedbuilder.ui.projectType.excutable.2066523179" name="LatticeMico32  Elf Executable" projectType="com.lattice.mdk.managedbuilder.ui.projectType.excutable">
+<configuration artifactName="LED_Blink" cleanCommand="rm -f" description="" errorParsers="org.eclipse.cdt.core.MakeErrorParser;org.eclipse.cdt.core.GCCErrorParser;org.eclipse.cdt.core.GASErrorParser;org.eclipse.cdt.core.VCErrorParser" id="com.lattice.mdk.managedbuilder.ui.configuration.debug.1984609249" name="Debug" parent="com.lattice.mdk.managedbuilder.ui.configuration.debug">
+<toolChain id="com.lattice.mdk.managedbuilder.ui.toolChain.debug.1500886776" name="Debug Toolchain" superClass="com.lattice.mdk.managedbuilder.ui.toolChain.debug">
+<tool id="com.lattice.mdk.managedbuilder.ui.tool.debug.compiler.1175105480" name="LatticeMico32 C/C++ Compiler" superClass="com.lattice.mdk.managedbuilder.ui.tool.debug.compiler"/>
+<tool id="com.lattice.mdk.managedbuilder.ui.tool.syslib.debug.compiler.1243720230" name="LatticeMico32 C/C++ System Library Compiler" superClass="com.lattice.mdk.managedbuilder.ui.tool.syslib.debug.compiler"/>
+<tool id="com.lattice.mdk.managedbuilder.ui.tool.debug.linker.2112209249" name="LatticeMico32 Linker" superClass="com.lattice.mdk.managedbuilder.ui.tool.debug.linker"/>
+<tool id="com.lattice.mdk.managedbuilder.ui.tool.cc.debug.compiler.1806550929" name="LatticeMico32 C++ Compiler" superClass="com.lattice.mdk.managedbuilder.ui.tool.cc.debug.compiler"/>
+<tool id="com.lattice.mdk.managedbuilder.ui.tool.syslib.cc.debug.compiler.408626367" name="LatticeMico32 C++ System Library Compiler" superClass="com.lattice.mdk.managedbuilder.ui.tool.syslib.cc.debug.compiler"/>
+<tool id="com.lattice.mdk.managedbuilder.ui.tool.debug.cc.linker.1328967586" name="LatticeMico32 C++ Linker" superClass="com.lattice.mdk.managedbuilder.ui.tool.debug.cc.linker"/>
+</toolChain>
+</configuration>
+<configuration artifactName="LED_Blink" cleanCommand="rm -f" description="" errorParsers="org.eclipse.cdt.core.MakeErrorParser;org.eclipse.cdt.core.GCCErrorParser;org.eclipse.cdt.core.GASErrorParser;org.eclipse.cdt.core.VCErrorParser" id="com.lattice.mdk.managedbuilder.ui.configuration.release.1848631091" name="Release" parent="com.lattice.mdk.managedbuilder.ui.configuration.release">
+<toolChain id="com.lattice.mdk.managedbuilder.ui.toolChain.release.1748484419" name="Release Toolchain" superClass="com.lattice.mdk.managedbuilder.ui.toolChain.release">
+<tool id="com.lattice.mdk.managedbuilder.ui.tool.release.compiler.835434261" name="LatticeMico32 C/C++ Compiler" superClass="com.lattice.mdk.managedbuilder.ui.tool.release.compiler"/>
+<tool id="com.lattice.mdk.managedbuilder.ui.tool.syslib.release.compiler.654037934" name="LatticeMico32 C/C++ System Library Compiler" superClass="com.lattice.mdk.managedbuilder.ui.tool.syslib.release.compiler"/>
+<tool id="com.lattice.mdk.managedbuilder.ui.tool.release.linker.22837754" name="LatticeMico32 Linker" superClass="com.lattice.mdk.managedbuilder.ui.tool.release.linker"/>
+<tool id="com.lattice.mdk.managedbuilder.ui.tool.release.cc.compiler.906951176" name="LatticeMico32 C++ Compiler" superClass="com.lattice.mdk.managedbuilder.ui.tool.release.cc.compiler"/>
+<tool id="com.lattice.mdk.managedbuilder.ui.tool.syslib.cc.release.compiler.801324665" name="LatticeMico32 C++ System Library Compiler" superClass="com.lattice.mdk.managedbuilder.ui.tool.syslib.cc.release.compiler"/>
+<tool id="com.lattice.mdk.managedbuilder.ui.tool.release.cc.linker.1677139454" name="LatticeMico32 C++ Linker" superClass="com.lattice.mdk.managedbuilder.ui.tool.release.cc.linker"/>
+</toolChain>
+</configuration>
+</project>
+</ManagedProjectBuildInfo>

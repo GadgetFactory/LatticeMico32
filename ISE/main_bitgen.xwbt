@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\temp\latticmico32\ztex_spartan6\ISE\main.ncd
+OUTFILE=C:\temp\latticmico32\ztex_spartan6\ISE\main.bit
+FAMILY=Spartan3E
+PART=xc3s250e-5vq100
+WORKINGDIR=C:\temp\latticmico32\ztex_spartan6\ISE
+LICENSE=WebPack
+USER_INFO=175441551_0_0_333
